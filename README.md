@@ -14,9 +14,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/p3drojs/count.svg?"  />
-</div>
-
-###
